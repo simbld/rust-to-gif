@@ -29,6 +29,7 @@ config = "0.14.1"
 postgres-native-tls = "0.5.0"
 bindgen = "0.70.1"
 clang-sys = "1.8.1"
+simbld-http = "0.1.0"
 
 [[bin]]
 name = "rust_to_gif"
